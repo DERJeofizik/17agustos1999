@@ -14,7 +14,7 @@ import numpy as np
 import obspy
 from obspy.geodetics import calc_vincenty_inverse
 
-from IPython.display import HTML
+# from IPython.display import HTML
 
 import matplotlib.pyplot as plt
 import matplotlib.patches as mpatches
